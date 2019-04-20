@@ -1,2 +1,2 @@
 # nfc-assign
-Reassigning Locked NFC Tags values
+Virtually edit locked NFC tags.
